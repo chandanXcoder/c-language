@@ -1,9 +1,10 @@
 //write a program to calculate simple intrest
 
 #include <stdio.h>
-  int main{
-printf(" hey im chand")
+   A = P*pow((1+R/100) ,time),
 
+   C I + Ammount - 
+  
 
 
 

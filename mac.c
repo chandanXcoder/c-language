@@ -2,7 +2,7 @@
 
 #include <stdio.h>
   int main{
-printf("")
+printf(" hey im chand")
 
 
 

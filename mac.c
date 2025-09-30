@@ -1,7 +1,7 @@
 //write a program to calculate simple intrest
 
 #include <stdio.h>
-  { A = P*pow((1+R/100) 
+  { A = P*pow
 
    
   

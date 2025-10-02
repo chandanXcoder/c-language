@@ -3,8 +3,7 @@ int main() {
 
 
 printf("hello chandan")
-printf(" sanskarva")
-ekskf
+printf(" sansk
 
 
 

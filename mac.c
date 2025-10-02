@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main(){
-int num,temp,rev= 0,dig
+int main()
 
 
 
